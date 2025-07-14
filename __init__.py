@@ -1,0 +1,1 @@
+from TwentyFourOrAnyNumGameSolver.solver import *
